@@ -1,0 +1,1 @@
+this project makes a uncloseable window (unless you use task manager) and shows scary eords like scanning for passwords and stuff but it does nothing feel free to steal the code if u want i dont rlly care
